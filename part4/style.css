@@ -1,0 +1,49 @@
+#transit{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    margin: 0 auto;
+    transition: margin-top 2s ease-in-out 0.2s;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+   
+}
+
+    
+
+#transit:hover{
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 300px;
+}
+
+.Tform{
+    height: 30px;
+    width: 140px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 5px;
+    transition: none;
+}
+.Tform:nth-of-type(2n){
+    background-color: bisque;
+}
+.Tform:nth-of-type(2n+1){
+    background-color: rgb(25, 237, 159);
+}
+#item1{
+    transform: rotate(45deg);
+    transition: none;
+}
+#item2{
+    /* transform: scale(0.5); */
+    transform: scale(0.5, 2);
+}
+#item3{
+    transform: translate(100px, 100px);
+    transform: translatex(100px);
+}
+#item4{
+    transform: skew(30deg);
+}
