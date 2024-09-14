@@ -1,0 +1,29 @@
+.box{
+    height: 100px;
+    width: 150px;
+    background-color: pink;
+
+    animation-name: fontAnimation, boxsizeAnimation;
+    animation-duration: 3s;
+    animation-timing-function: ease-in;
+    animation-delay: 0.2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+@keyframes fontAnimation {
+    from {
+        font-size: 20px;
+    }
+    to {
+        font-size: 40px;
+    }
+}
+
+@keyframes boxsizeAnimation{
+    from{
+        width: 0px;
+    }
+    to{
+        width: 150px;
+    }
+}
