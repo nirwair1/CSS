@@ -1,0 +1,36 @@
+h1 {
+    /* color: #ffffaa; */
+    color: #ff0;
+    background-color: black;
+    text-align:center;
+    border: 2px solid yellow;
+}
+button{
+    color: black;
+    background-color: blue;
+    /* font-size: 100%; */
+    font-style: italic;
+    border: 2px solid green;
+    border-radius: 7px;
+    text-decoration:wavy blue line-through;
+    
+
+
+}
+
+p {
+    color: #aaa;
+    color: #00ff00;
+    text-align: right;
+}
+
+.x{
+    font-weight: 600;
+    text-decoration:double blue underline;
+}
+.x2{
+    line-height: 2.5;
+}
+#abc{
+    font-family: 'Courier New', Courier, monospace;
+}
