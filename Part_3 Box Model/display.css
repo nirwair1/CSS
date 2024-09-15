@@ -1,0 +1,18 @@
+h1{
+    display: inline;
+}
+span{
+    display: block;
+}
+#outer{
+    height: 200px;
+    width: 20%;  /*20% of screen width if element directly in the body*/
+    background-color: red;
+    margin: 100px;
+}
+#inner{
+    height: 50%; /*50% of outer height*/
+    width: 50%;  /*50% of outer width*/
+    background-color: rgb(88, 68, 235);
+    margin: 10%;   /*it will take margin w.r.t parent height and width*/
+}
