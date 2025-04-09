@@ -3,7 +3,7 @@
 Welcome to my **Spotify Home Page Clone** project! This is a static replica of Spotify's main landing page built using **HTML** and **CSS**, hosted via **GitHub Pages**.
 
 📁 Project Folder: [`/docs`](./docs)  
-🌐 Live Demo: [Click here to view](https://nirwairkumar.github.io/css/)
+🌐 Live Demo: [Click here to view](https://nirwairkumar.github.io/CSS/#)
 
 ---
 
