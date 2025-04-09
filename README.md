@@ -18,7 +18,7 @@ Welcome to my **Spotify Home Page Clone** project! This is a static replica of S
 
 ## 📸 Preview
 
-![Spotify Clone Preview](./docs/icons/card1img.jpeg)
+![Spotify Clone Preview]([./docs/icons/card1img.jpeg](https://github.com/nirwairkumar/CSS/blob/c97626de45ad6753552dec705281d16e325a19a8/docs/preview.png))
 
 > *Note: This is a static frontend clone and doesn't include real-time functionality like music playback or API integration.*
 
