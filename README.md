@@ -32,6 +32,8 @@ css/                   ← Your main GitHub repository
 │   ├── icons/         ← Folder with all your image assets and icons (e.g., .jpeg, .png)
 │   │   ├── card1img.jpeg
 │   │   ├── backward_icon.png
+│   │   ├── nirwair image.jpg
+│   │   ├── nirwair img 2.jpg
 │   │   └── ... (other images)
 └── README.md          ← The file you're currently writing to describe your project
 
