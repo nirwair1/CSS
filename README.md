@@ -25,4 +25,13 @@ Welcome to my **Spotify Home Page Clone** project! This is a static replica of S
 ---
 
 ## 📂 Folder Structure
+css/                   ← Your main GitHub repository
+├── docs/              ← The folder containing your actual project (required for GitHub Pages)
+│   ├── index.html     ← The homepage file (entry point of your site)
+│   ├── style.css      ← All the styling for the page
+│   ├── icons/         ← Folder with all your image assets and icons (e.g., .jpeg, .png)
+│   │   ├── card1img.jpeg
+│   │   ├── backward_icon.png
+│   │   └── ... (other images)
+└── README.md          ← The file you're currently writing to describe your project
 
